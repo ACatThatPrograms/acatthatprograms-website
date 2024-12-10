@@ -13,8 +13,9 @@ Backend Functionality Requires [Websites Core API](https://github.com/ACatThatPr
 
 1. Deploy BE Somewhere and set ENV accordingly on FE
 2. Build front-end (`pnpm i && pnpm build`)*
-<sup>*Ensure that public has desired CV added as `cv.pdf`</sup>
 3. Deploy `dist/` folder to static location
+
+<sup>*Ensure that `public/` has the desired CV added as `cv.pdf`</sup>
 
 ## ENV
 
